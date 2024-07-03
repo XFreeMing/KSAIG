@@ -1,2 +1,9 @@
-# KSAIG
-知识(Knowledge) 社交(Social) AI 游戏(GAME) 的完美结合
+# KSAIG    
+知识(Knowledge) 社交(Social) AI 游戏(GAME) 的完美结合    
+
+## 灵感
+超强的社交属性
+可以将现实社会带入到虚拟世界中
+例如 游戏中回复消息购物等
+打破充钱变强的模式
+自建 化学，物理，生物体系
